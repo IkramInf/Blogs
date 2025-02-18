@@ -12,9 +12,9 @@ Welcome to the Blogs repository! This space contains articles, scripts, and reso
 
 ## 📌 How to Use
     
-- Clone the repository
-git clone https://github.com/your-username/Blogs.git
-cd Blogs
+- Clone the repository  
+git clone https://github.com/your-username/Blogs.git  
+cd Blogs  
 
 - Read an article
 Open .md files in a markdown viewer or text editor.
