@@ -13,7 +13,7 @@ Welcome to the Blogs repository! This space contains articles, scripts, and reso
 ## 📌 How to Use
     
 - Clone the repository  
-git clone https://github.com/your-username/Blogs.git  
+git clone https://github.com/IkramInf/Blogs.git  
 cd Blogs  
 
 - Read an article  
