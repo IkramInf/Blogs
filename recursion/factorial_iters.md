@@ -68,8 +68,6 @@ factorial(4) = 4 \times factorial(3) = 4 \times 6 = 24
 \to
 factorial(5) = 5 \times factorial(4) = 5 \times 24 = 120
 $$
-
-i.e.,
 $$
 1 (base_case) \to 2 \times 1 \to 3 \times 2 \to 4 \times 6 \to 5 \times 24 \to 120
 $$
